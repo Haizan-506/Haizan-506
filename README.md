@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Haizan (@WhiteGoose506)
+# 👋 Hi, I’m Haizan
 
 I’m a former engineer transitioning into the **Data Analytics** field.  
 Passionate about problem-solving, uncovering insights, and turning raw data into meaningful stories.  
